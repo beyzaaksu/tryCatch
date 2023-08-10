@@ -1,0 +1,15 @@
+C:\Patikacsharp\tryCatch\bin\Debug\net6.0\tryCatch.exe
+C:\Patikacsharp\tryCatch\bin\Debug\net6.0\tryCatch.deps.json
+C:\Patikacsharp\tryCatch\bin\Debug\net6.0\tryCatch.runtimeconfig.json
+C:\Patikacsharp\tryCatch\bin\Debug\net6.0\tryCatch.dll
+C:\Patikacsharp\tryCatch\bin\Debug\net6.0\tryCatch.pdb
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.csproj.AssemblyReference.cache
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfoInputs.cache
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.AssemblyInfo.cs
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.csproj.CoreCompileInputs.cache
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.dll
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\refint\tryCatch.dll
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.pdb
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\tryCatch.genruntimeconfig.cache
+C:\Patikacsharp\tryCatch\obj\Debug\net6.0\ref\tryCatch.dll
